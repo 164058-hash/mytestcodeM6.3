@@ -1,6 +1,5 @@
-print("hello world")
-print("-----------")
-a=int(input("enter number1"))
-b=int(input("enter number2"))
-c=a+b
-print("sum is",c)
+x = int(input("ความกว้าง = "))
+y = int(input("ความยาว = "))
+
+print("พื้นที่" x * y)
+i = 1
